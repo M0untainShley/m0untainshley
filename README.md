@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 - I’m shley && m0untainshley
 - I like Programming, Penetration Testing, Code Auditing and Red Team Attack Skills and am learning them
-- [![M0untainShley's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0untainShley&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+- My GitHub stats
+[![M0untainShley's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0untainShley&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+- Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0untainShley)](https://github.com/anuraghazra/github-readme-stats)
