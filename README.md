@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - I’m shley && m0untainshley
-- (![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0untainShley)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0untainShley]
