@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - I’m shley && m0untainshley
 - Java、Python、Red Team、CyberSec、Pentest
+- I have obtained Security+ and RHCE certification
 - My GitHub stats
 
 [![M0untainShley's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0untainShley&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
